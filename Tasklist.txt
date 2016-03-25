@@ -1,0 +1,6 @@
+- Find out what language kit uses
+- Write movement code
+- Start Algorithm
+  - Array Function
+  - Movment Function
+  - Wallfinder
